@@ -11,6 +11,8 @@ easily stored or transmitted, while deserialization is the
 reverse process of converting the serialized data back into 
 an object.</p>
 
+<img src="src/main/resources/image1.png">
+
 <h3>Benefits</h3>
 
 <span style="font-size: 16px">Persistence:</span>
