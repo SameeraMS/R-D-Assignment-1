@@ -38,3 +38,7 @@ languages.</span>
 a byte stream, while deserialization involves reconstructing
 the object from the byte stream. In Java, this is typically
 done using the Serializable interface.</p>
+
+<h3>If you want more about this please read my article about serialization and deserialization on medium </h3>
+
+<h3>Link : <a href="https://sameerams.medium.com/java-serialization-and-deserialization-b8b1deb7eeb8">Java serialization and deserialization</a></h3> 
